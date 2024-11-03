@@ -28,9 +28,9 @@
 <h3 align="left">Support:</h3>
 <!-- <p><a href="https://ko-fi.com/Isha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Isha" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sttabish&show_icons=true&locale=en&layout=compact" alt="sttabish" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tab-isha&show_icons=true&locale=en&layout=compact" alt="tab-isha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sttabish&show_icons=true&locale=en" alt="sttabish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tab-isha&show_icons=true&locale=en" alt="tab-isha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sttabish&" alt="sttabish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tab-isha&" alt="tab-isha" /></p>
 
